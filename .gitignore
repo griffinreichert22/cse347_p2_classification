@@ -1,3 +1,11 @@
+# data
+data/
+Project2.pdf
+
+#############################
+# Auto Generated py gitignore
+#############################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
