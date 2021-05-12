@@ -1,6 +1,8 @@
-# data
+
 data/
 Project2.pdf
+*.docx
+.DS_Store
 
 #############################
 # Auto Generated py gitignore
@@ -135,4 +137,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.DS_Store
